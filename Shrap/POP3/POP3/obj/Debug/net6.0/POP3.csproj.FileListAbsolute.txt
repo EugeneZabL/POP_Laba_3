@@ -1,0 +1,15 @@
+C:\Users\Eugene\source\repos\POP3\POP3\bin\Debug\net6.0\POP3.exe
+C:\Users\Eugene\source\repos\POP3\POP3\bin\Debug\net6.0\POP3.deps.json
+C:\Users\Eugene\source\repos\POP3\POP3\bin\Debug\net6.0\POP3.runtimeconfig.json
+C:\Users\Eugene\source\repos\POP3\POP3\bin\Debug\net6.0\POP3.dll
+C:\Users\Eugene\source\repos\POP3\POP3\bin\Debug\net6.0\POP3.pdb
+C:\Users\Eugene\source\repos\POP3\POP3\obj\Debug\net6.0\POP3.csproj.AssemblyReference.cache
+C:\Users\Eugene\source\repos\POP3\POP3\obj\Debug\net6.0\POP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eugene\source\repos\POP3\POP3\obj\Debug\net6.0\POP3.AssemblyInfoInputs.cache
+C:\Users\Eugene\source\repos\POP3\POP3\obj\Debug\net6.0\POP3.AssemblyInfo.cs
+C:\Users\Eugene\source\repos\POP3\POP3\obj\Debug\net6.0\POP3.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\source\repos\POP3\POP3\obj\Debug\net6.0\POP3.dll
+C:\Users\Eugene\source\repos\POP3\POP3\obj\Debug\net6.0\refint\POP3.dll
+C:\Users\Eugene\source\repos\POP3\POP3\obj\Debug\net6.0\POP3.pdb
+C:\Users\Eugene\source\repos\POP3\POP3\obj\Debug\net6.0\POP3.genruntimeconfig.cache
+C:\Users\Eugene\source\repos\POP3\POP3\obj\Debug\net6.0\ref\POP3.dll
